@@ -97,7 +97,7 @@ html, body, .stApp {
     border-radius: 16px;
     border: 1px solid rgba(99,102,241,0.3);
     box-shadow: 0 4px 16px rgba(99,102,241,0.1);
-    font-color: black;
+    color: #1f2937; 
 }
 
 textarea {
