@@ -31,6 +31,7 @@ st.markdown("""
 
 html, body, .stApp {
     font-family: 'Inter', sans-serif !important;
+    color: #1f2937;
 }
 
 /* ⭐ STREAMLIT RESPONSIVE WIDTH FIX */
@@ -104,6 +105,7 @@ textarea {
     border-radius: 14px !important;
     border: 2px solid #d6d8e6 !important;
     background: #fafbff !important;
+    color: #1f2937;
 }
 
 .stButton > button {
@@ -123,6 +125,7 @@ textarea {
     font-size: 1.3rem;
     font-weight: 700;
     margin-top: 1.3rem;
+    color: #1f2937;
 }
 
 .result-spam {
